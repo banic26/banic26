@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Bani 👋
 
-<!--
-**banic26/banic26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Life Science Student
 
-Here are some ideas to get you started:
+🔬 Interested in Biology, Genetics, Ecology and Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning:
+- Python
+- Git & GitHub
+- Bioinformatics
+- Artificial Intelligence
+
+📚 Goals
+- Learn programming for biological data analysis
+- Build bioinformatics projects
+- Contribute to research-oriented projects
+- Prepare for higher studies and internships
+
+## Skills I'm Learning
+- Python
+- Data Analysis
+- Bioinformatics
+- AI Fundamentals
+
+## Connect With Me
+Welcome to my GitHub profile!## 
